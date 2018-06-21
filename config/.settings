@@ -1,0 +1,17 @@
+{
+    "projectName": "Planet Fitness Testing SB",
+    "username": "manuela.lkayser@pfhq.com.testing",
+    "id": "66ed3c10-755a-11e8-ae9e-a1f23f513680",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://planetfitness--Testing.cs94.my.salesforce.com",
+    "workspace": "/Users/manuela.lkayser/Documents",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
